@@ -1,0 +1,16 @@
+C:\C# 2022\learn\New folder\Send email\Send email\bin\Debug\net8.0-windows\Send email.exe
+C:\C# 2022\learn\New folder\Send email\Send email\bin\Debug\net8.0-windows\Send email.deps.json
+C:\C# 2022\learn\New folder\Send email\Send email\bin\Debug\net8.0-windows\Send email.runtimeconfig.json
+C:\C# 2022\learn\New folder\Send email\Send email\bin\Debug\net8.0-windows\Send email.dll
+C:\C# 2022\learn\New folder\Send email\Send email\bin\Debug\net8.0-windows\Send email.pdb
+C:\C# 2022\learn\New folder\Send email\Send email\obj\Debug\net8.0-windows\Send_email.Form1.resources
+C:\C# 2022\learn\New folder\Send email\Send email\obj\Debug\net8.0-windows\Send email.csproj.GenerateResource.cache
+C:\C# 2022\learn\New folder\Send email\Send email\obj\Debug\net8.0-windows\Send email.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# 2022\learn\New folder\Send email\Send email\obj\Debug\net8.0-windows\Send email.AssemblyInfoInputs.cache
+C:\C# 2022\learn\New folder\Send email\Send email\obj\Debug\net8.0-windows\Send email.AssemblyInfo.cs
+C:\C# 2022\learn\New folder\Send email\Send email\obj\Debug\net8.0-windows\Send email.csproj.CoreCompileInputs.cache
+C:\C# 2022\learn\New folder\Send email\Send email\obj\Debug\net8.0-windows\Send email.dll
+C:\C# 2022\learn\New folder\Send email\Send email\obj\Debug\net8.0-windows\refint\Send email.dll
+C:\C# 2022\learn\New folder\Send email\Send email\obj\Debug\net8.0-windows\Send email.pdb
+C:\C# 2022\learn\New folder\Send email\Send email\obj\Debug\net8.0-windows\Send email.genruntimeconfig.cache
+C:\C# 2022\learn\New folder\Send email\Send email\obj\Debug\net8.0-windows\ref\Send email.dll
