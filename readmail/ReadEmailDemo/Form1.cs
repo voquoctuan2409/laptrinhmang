@@ -40,7 +40,7 @@ namespace ReadEmailDemo
 
                     // Tìm kiếm email trong khoảng thời gian nhất định
                     var uids = await inbox.SearchAsync(SearchQuery.DeliveredAfter(startDate)
-                                                           .And(SearchQuery.DeliveredBefore(endDate)));
+                                                           .And(SearchQuery.DeliveredBefore(endDate.AddDays(1))));
 
                     // Lấy thông tin email
                     List<EmailInfo> emailList = new List<EmailInfo>();
@@ -51,6 +51,7 @@ namespace ReadEmailDemo
                         {
                             From = message.From.ToString(),
                             Subject = message.Subject,
+                            body = message.TextBody,
                             TimeReceive = message.Date
                         });
                     }
@@ -76,8 +77,13 @@ namespace ReadEmailDemo
         {
             public string From { get; set; }
             public string Subject { get; set; }
+            public string body { get; set; }
             public DateTimeOffset TimeReceive { get; set; }
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            password.PasswordChar = '*';
+        }
     }
 }
