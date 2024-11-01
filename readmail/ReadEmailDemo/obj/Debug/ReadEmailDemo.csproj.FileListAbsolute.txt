@@ -1,0 +1,97 @@
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\ReadEmailDemo.exe.config
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\ReadEmailDemo.exe
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\ReadEmailDemo.pdb
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\MailKit.dll
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\MimeKit.dll
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Buffers.dll
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Memory.dll
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\BouncyCastle.Crypto.xml
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\MailKit.pdb
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\MailKit.xml
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\MimeKit.pdb
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\MimeKit.xml
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Buffers.xml
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Memory.xml
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.csproj.AssemblyReference.cache
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.Form1.resources
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.Properties.Resources.resources
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.csproj.GenerateResource.cache
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.csproj.CopyComplete
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.exe
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.pdb
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Documents\Downloads\ReadEmailDemo\ReadEmailDemo\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ReadEmailDemo.exe.config
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ReadEmailDemo.exe
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ReadEmailDemo.pdb
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MailKit.dll
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MimeKit.dll
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Buffers.dll
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Memory.dll
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Numerics.Vectors.dll
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\BouncyCastle.Crypto.xml
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MailKit.pdb
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MailKit.xml
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MimeKit.pdb
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MimeKit.xml
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Buffers.xml
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Memory.xml
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Numerics.Vectors.xml
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.csproj.AssemblyReference.cache
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.Form1.resources
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.Properties.Resources.resources
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.csproj.GenerateResource.cache
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.csproj.CoreCompileInputs.cache
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmai.AA101BD2.Up2Date
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.exe
+C:\C# 2022\learn\New folder\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.pdb
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ReadEmailDemo.exe.config
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ReadEmailDemo.exe
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ReadEmailDemo.pdb
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MailKit.dll
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MimeKit.dll
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MailKit.pdb
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MailKit.xml
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MimeKit.pdb
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\MimeKit.xml
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.Form1.resources
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.Properties.Resources.resources
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmai.AA101BD2.Up2Date
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.exe
+C:\Users\nguye\Downloads\ReadEmailDemo\ReadEmailDemo\ReadEmailDemo\obj\Debug\ReadEmailDemo.pdb
